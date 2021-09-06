@@ -132,7 +132,7 @@ sections:
           - dolor sit amet
         actions: []
   - type: testimonials_section
-    section_id: testimonials
+    section_id: testimonial
     title: Testimonials
     subtitle: What our Clients say
     col_number: three
