@@ -1,6 +1,6 @@
 ---
 title: The Advantages and Disadvantages of Working from Home
-excerpt: "Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+excerpt: "Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis\n
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2021-01-15'
