@@ -19,9 +19,9 @@ sections:
         new_window: false
         no_follow: false
   # - type: hero_section
-    section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
+    #  section_id: hero
+   #   #  title: >-
+   #     This is an Award Winning Agency Based in San Francisco and Focusing on
       Digital, Identity, and Print Design.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
