@@ -38,7 +38,7 @@ export {
     PortfolioItem,
     PortfolioSection,
     PostsSection,
-    TestimonialsSection,
+    TestimonialsSectio,
     TextSection
 };
 
