@@ -22,7 +22,7 @@ export default class BlogFeedItem extends React.Component {
                     <Link className="post-card__image" href={postUrl}>
                         <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                     </Link>
-                )}
+                )*/}
                 <header className="post-card__header">
                     <h3 className="post-card__title"><Link href={postUrl}>{title}</Link></h3>
                     <div className="post-card__meta">
