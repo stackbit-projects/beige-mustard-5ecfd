@@ -9,7 +9,7 @@ thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
 image: images/post-5.jpg
 image_alt: White wooden table with a chair
-blabla: 
+blabla: Hello
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
