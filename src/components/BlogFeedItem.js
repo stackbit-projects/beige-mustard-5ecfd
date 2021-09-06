@@ -18,7 +18,7 @@ export default class BlogFeedItem extends React.Component {
 
         return (
             <article className="cell post-card">
-                {thumbImage && (
+                {/*thumbImage && (
                     <Link className="post-card__image" href={postUrl}>
                         <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
                     </Link>
