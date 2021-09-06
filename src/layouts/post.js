@@ -56,7 +56,7 @@ export default class Post extends React.Component {
                             )}
                         </div>
                     </header>
-                    {}
+                    {<div>{blabla}</div>}
                     {image && (
                         <div className="post__image">
                             <div className="container container--lg">
