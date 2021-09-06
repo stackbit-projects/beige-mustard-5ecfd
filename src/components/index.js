@@ -38,7 +38,7 @@ export {
     PortfolioItem,
     PortfolioSection,
     PostsSection,
-    TestimonialsSectio,
+    TestimonialsSection,
     TextSection
 };
 
@@ -61,6 +61,6 @@ export default {
     PortfolioItem,
     PortfolioSection,
     PostsSection,
-    TestimonialsSectio,
+    TestimonialsSection,
     TextSection
 };
