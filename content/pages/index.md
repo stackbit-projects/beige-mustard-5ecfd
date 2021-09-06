@@ -100,6 +100,14 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
