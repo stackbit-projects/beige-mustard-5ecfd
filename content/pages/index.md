@@ -18,7 +18,7 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-  # - type: hero_section
+     - type: hero_section
       section_id: hero
 
     content: >-
