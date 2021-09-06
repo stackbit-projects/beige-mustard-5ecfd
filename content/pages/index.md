@@ -68,6 +68,13 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: Experience design
         image: images/service-3.svg
         content: |-
