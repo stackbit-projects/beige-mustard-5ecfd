@@ -26,7 +26,6 @@ export default class Blog extends React.Component {
                 >
                     <div className="container container--lg">
                         <h1 className="section__title line-top">{title}</h1>
-                        {subtitle && <p className="section__subtitle">{subtitle}</p>}
                     </div>
                 </header>
                 <div className="section section--portfolio">
