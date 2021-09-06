@@ -13,6 +13,8 @@ seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
   extra: [
+      "name": "og:type",
+      "value": "article",
       
   ]
     - name: 'og:type'
