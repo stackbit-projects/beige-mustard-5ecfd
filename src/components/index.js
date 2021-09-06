@@ -16,7 +16,7 @@ import ImageSection from './ImageSection';
 import PortfolioItem from './PortfolioItem';
 import PortfolioSection from './PortfolioSection';
 import PostsSection from './PostsSection';
-import TestimonialsSection as TestimonialsSectio from './TestimonialsSection';
+import TestimonialsSection from './TestimonialsSection';
 import TextSection from './TextSection';
 
 export {
