@@ -152,6 +152,10 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - author: lorem-ipsum
+        position: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
