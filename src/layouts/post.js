@@ -45,6 +45,7 @@ export default class Post extends React.Component {
         return (
             <Layout page={page} config={config}>
                 <article className="post">
+                    aaa
                     <header className="post__header">
                         <div className="container container--md">
                             <h1 className="post__title line-top">{title}</h1>
