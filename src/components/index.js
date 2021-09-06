@@ -61,6 +61,6 @@ export default {
     PortfolioItem,
     PortfolioSection,
     PostsSection,
-    TestimonialsSection,
+    TestimonialsSectio,
     TextSection
 };
