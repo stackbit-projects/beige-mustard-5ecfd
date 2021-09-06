@@ -283,6 +283,9 @@ models:
     folder: blog
     fields:
       - type: string
+        name: blabla
+        label: Blabla
+      - type: string
         name: title
         label: Title
         description: The title of the post
